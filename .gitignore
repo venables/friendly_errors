@@ -1,3 +1,9 @@
+# rvm
+.rvmrc
+
+# lock files
+*.lock
+
 # rcov generated
 coverage
 

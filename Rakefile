@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "friendly_errors"
   gem.homepage = "http://github.com/vegetables/friendly_errors"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Handles rails exceptions gracefully"
+  gem.description = "Shows user-friendly error pages instead of 'Something went wrong'"
   gem.email = "matt@blendist.com"
   gem.authors = ["Matt Venables"]
   # dependencies defined in Gemfile
